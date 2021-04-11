@@ -12,8 +12,9 @@
     />
     <div id="nav">
       <router-link to="/">ข้อ 1 - Basic Javascript (เลือกทำ 2 ข้อ)</router-link>
-      |
+      || &nbsp;
       <router-link to="/two">ข้อ 2 - Database Design </router-link>
+      || &nbsp;
       <router-link to="/three"
         >ข้อ 3 - ทำโจทย์ตามตำแหน่งที่ตนเองสมัคร</router-link
       >
